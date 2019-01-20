@@ -2,7 +2,7 @@
 
 配方： ℞ **middle-chinese**
 
-[Rime](http://rime.im) 中古漢語拼音輸入方案
+[Rime](https://rime.im) 中古漢語拼音輸入方案
 
 ## 簡介
 
