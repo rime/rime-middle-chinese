@@ -2268,7 +2268,7 @@ use_preset_vocabulary: true
 騬	zsjing
 逞	thriengx
 徎	thengx
-徎	triengx
+徎	driengx
 悜	thriengx
 庱	thring
 庱	thringx
@@ -3966,7 +3966,7 @@ use_preset_vocabulary: true
 啑	srap
 啑	teh
 𠗨	dep
-𠗨	trap
+𠗨	drap
 镻	det
 堞	dep
 揲	dep
@@ -3976,7 +3976,7 @@ use_preset_vocabulary: true
 耋	det
 喋	dep
 喋	tep
-喋	trap
+喋	drap
 㥈	dep
 詄	det
 惵	dep
@@ -17737,23 +17737,23 @@ use_preset_vocabulary: true
 瘮	srimx
 𣞵	zsjimx
 升	sjing
-生	srieng
-生	sriengh	5%
+生	srang
+生	srangh	5%
 昇	sjing
-狌	srieng
-珄	srieng
-牲	srieng
+狌	srang
+珄	srang
+牲	srang
 陞	sjing
 㱡	sring
 㱡	sringx
-笙	srieng
-甥	srieng
+笙	srang
+甥	srang
 鉎	seng
-鉎	srieng
-䴤	srieng
+鉎	srang
+䴤	srang
 聲	sjeng
-鼪	srieng
-鼪	sriengh
+鼪	srang
+鼪	srangh
 澠	mjinx
 澠	zsjing
 憴	zsjing
@@ -21831,7 +21831,7 @@ use_preset_vocabulary: true
 䊝	sit
 𤏻	sep
 鞢	sep
-鞢	trap
+鞢	drap
 䵦	zsiax
 䉣	siah
 㒠	ghraih
@@ -21911,7 +21911,7 @@ use_preset_vocabulary: true
 垶	syeng
 𤙡	syeng
 猩	seng
-猩	srieng
+猩	srang
 惺	seng
 惺	siengx
 蛵	heng
@@ -23317,7 +23317,7 @@ use_preset_vocabulary: true
 燁	iep
 擖	khret
 擖	krat
-擖	trap
+擖	drap
 𠟪	chiep
 𠟪	ngiap
 鄴	ngiap
@@ -24088,7 +24088,7 @@ use_preset_vocabulary: true
 迎	ngieng
 迎	ngiengh
 盈	jeng
-𣵹	triengx
+𣵹	driengx
 𦳖	ghuengx
 桯	gheng
 桯	theng
@@ -25517,12 +25517,12 @@ use_preset_vocabulary: true
 霅	cjep
 霅	ghrap
 霅	sop
-霅	trap
+霅	drap
 𧼰	zrep
 𩿤	cret
 鍘	zrat
 鍘	zret
-𤁳	trap
+𤁳	drap
 䮢	zrep
 𨰉	zrat
 厏	crax
